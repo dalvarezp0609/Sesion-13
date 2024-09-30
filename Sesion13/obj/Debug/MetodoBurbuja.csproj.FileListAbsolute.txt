@@ -1,0 +1,11 @@
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\MetodoBurbuja.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\MetodoBurbuja.Form1.resources
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\Sesion13.Properties.Resources.resources
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\MetodoBurbuja.csproj.GenerateResource.cache
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\labc202\source\repos\Sesion13\Sesion13\bin\Debug\Sesion13.exe.config
+C:\Users\labc202\source\repos\Sesion13\Sesion13\bin\Debug\Sesion13.exe
+C:\Users\labc202\source\repos\Sesion13\Sesion13\bin\Debug\Sesion13.pdb
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\Sesion13.exe
+C:\Users\labc202\source\repos\Sesion13\Sesion13\obj\Debug\Sesion13.pdb
